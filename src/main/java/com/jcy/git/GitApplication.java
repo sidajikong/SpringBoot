@@ -12,6 +12,7 @@ public class GitApplication {
         System.out.println("hello git!!");
         System.out.println("hello git!!!");
         System.out.println("main");
+        System.out.println("hello git!!!!");
     }
 
 }
